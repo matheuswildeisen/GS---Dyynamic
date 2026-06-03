@@ -19,11 +19,6 @@
 
 ## 📡 Sobre o Projeto
 
-O **SENTINEL AGRO** é uma plataforma de inteligência satelital que processa dados 
-orbitais de missões como **Landsat 8/9 (NASA)**, **Sentinel-2 (ESA)** e **MODIS 
-(NASA Terra/Aqua)** para monitorar riscos ambientais em municípios brasileiros em 
-tempo real.
-
 Nesta entrega da Global Solution, o projeto é implementado como um **sistema de 
 monitoramento e triagem de riscos** utilizando **grafos ponderados**, **árvores 
 binárias de busca (BST)**, **algoritmos de Força Bruta** e **algoritmos Gulosos 
