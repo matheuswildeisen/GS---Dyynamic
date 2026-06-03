@@ -205,27 +205,6 @@ e salvas na pasta `report/`:
 - `fig3_desempenho.png` — Tempo de execução × N para Força Bruta e Dijkstra
 - `fig4_gap_otimalidade.png` — Gap percentual entre solução FB (ótima) e Gulosa
 
----
-
-## 🏛️ Fontes de Dados
-
-- [NASA Earthdata — MODIS NDVI](https://earthdata.nasa.gov)
-- [INPE PRODES/DETER](https://terrabrasilis.dpi.inpe.br)
-- [INMET — Dados climáticos históricos](https://bdmep.inmet.gov.br)
-- [IBGE — Malha municipal](https://ibge.gov.br/geociencias)
-- [DNIT — Malha viária federal](https://dnit.gov.br)
-- [ESA Copernicus — Sentinel-2](https://scihub.copernicus.eu)
-
----
-
-## 📚 Referências Bibliográficas
-
-- Cormen, T. et al. (2022). *Introduction to Algorithms*, 4ª Ed. MIT Press. Caps. 22–25.
-- Sedgewick, R. & Wayne, K. (2011). *Algorithms*, 4ª Ed. Addison-Wesley. Parte 4: Grafos.
-- Skiena, S. (2020). *The Algorithm Design Manual*, 3ª Ed. Springer.
-- FIAP. *Global Solution 2026 — Space Connect*. São Paulo, 2026.
-
----
 
 <div align="center">
   <sub>FIAP — Bacharelado em Sistemas de Informação | Global Solution 2026</sub><br>
